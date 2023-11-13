@@ -43,10 +43,10 @@ app/
     _layout.tsx # Drawer
     Statistics/
       _layout.tsx # Tabs
-      feed.tsx
-      notification.tsx
+      stats.tsx
+      combat.tsx
       profile.tsx
-      search.tsx
+      mining.tsx
 ```
 
 ## 📁 Project Structure

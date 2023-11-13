@@ -1,6 +1,6 @@
 import { StyleSheet, Text, View } from "react-native";
 
-export default function Notification() {
+export default function Combat() {
   return (
     <View style={styles.container}>
       <Text>Notification</Text>

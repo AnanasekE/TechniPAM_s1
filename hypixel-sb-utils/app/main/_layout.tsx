@@ -7,7 +7,7 @@ export default function MainLayout() {
         drawerPosition: "left",
       }}
     >
-      <Drawer.Screen name="home" />
+      <Drawer.Screen name="Statistics" />
     </Drawer>
   );
 }
